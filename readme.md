@@ -2,7 +2,7 @@
 
 ### About
 
-My solutions to Advent of Code 2019 daily challenges. 
+My solutions to Advent of Code 2019 daily challenges. Written in JavaScript
 
 
 
